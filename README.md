@@ -84,7 +84,8 @@ A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Pleas
 | Organization        | URL           |
 | ------------- | ------------- |
 | Jamaica      | [data.gov.jm](http://data.gov.jm) |
-| Puerto Rico      | [abrepr.org](http://abrepr.org) |
+| Saint Lucia | [http://data.govt.lc/] (http://data.govt.lc) | 
+| Open Puerto Rico      | [abrepr.org](http://abrepr.org) |
 | El Salvador      | [datoselsalvador.org](http://datoselsalvador.org) |
 | Buenos Aires, Argentina      | [dkan.puertasdebuenosaires.com](http://dkan.puertasdebuenosaires.com) |
 | Rosario, Argentina      | [datos.rosario.gob.ar](http://datos.rosario.gob.ar) |

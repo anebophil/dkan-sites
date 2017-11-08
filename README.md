@@ -113,3 +113,4 @@ A partial list of [DKAN](http://nucivic.com/dkan) sites around the world.  Pleas
 | South Africa      | [data.gov.za](http://data.gov.za) |
 | Local Development Research Initiative, Kenya     | [transformagriculture.org](http://transformagriculture.org) |
 | Sayada, Tunisia     | [opendata.sayada.tn/fr](http://opendata.sayada.tn/fr) |
+| OpenGeoData.CI, Ivory Coast    | [http://opengeodata.ci/](http://opengeodata.ci/) |
